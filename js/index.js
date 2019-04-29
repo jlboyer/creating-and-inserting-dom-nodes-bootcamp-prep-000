@@ -21,4 +21,4 @@ element.appendChild(ul);
 
 ul.style.textAlign = 'right';
 
-ul.remove()
+//ul.remove()
